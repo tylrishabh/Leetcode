@@ -10,11 +10,7 @@ class Solution {
         }
 
         for(int i:candies){
-            System.out.println((i + extraCandies) +" "+ max);
-            if(i + extraCandies >= max)
-                boolList.add(true);
-            else
-                boolList.add(false);
+            boolList.add(i + extraCandies >= max );
         }
         return boolList;
     }
