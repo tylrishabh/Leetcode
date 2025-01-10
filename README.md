@@ -20,6 +20,7 @@ In this repo you'll find all my successful submissions of LeetCode.
 ## Array
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/tylrishabh/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/tylrishabh/Leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tylrishabh/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Math
@@ -29,5 +30,6 @@ In this repo you'll find all my successful submissions of LeetCode.
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/tylrishabh/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/tylrishabh/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
