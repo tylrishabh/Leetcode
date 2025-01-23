@@ -50,4 +50,8 @@ In this repo you'll find all my successful submissions of LeetCode.
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tylrishabh/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/tylrishabh/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
