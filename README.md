@@ -56,6 +56,7 @@ In this repo you'll find all my successful submissions of LeetCode.
 | [0197-rising-temperature](https://github.com/tylrishabh/Leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/tylrishabh/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/tylrishabh/Leetcode/tree/master/0584-find-customer-referee) |
+| [0620-not-boring-movies](https://github.com/tylrishabh/Leetcode/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/tylrishabh/Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/tylrishabh/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/tylrishabh/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
