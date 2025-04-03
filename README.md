@@ -17,6 +17,7 @@ In this repo you'll find all my successful submissions of LeetCode.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/tylrishabh/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/tylrishabh/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tylrishabh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/tylrishabh/Leetcode/tree/master/0392-is-subsequence) |
@@ -63,4 +64,8 @@ In this repo you'll find all my successful submissions of LeetCode.
 | [1258-article-views-i](https://github.com/tylrishabh/Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/tylrishabh/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/tylrishabh/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tylrishabh/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
