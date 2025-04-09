@@ -7,6 +7,7 @@ In this repo you'll find all my successful submissions of LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tylrishabh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/tylrishabh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/tylrishabh/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/tylrishabh/Leetcode/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@ In this repo you'll find all my successful submissions of LeetCode.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tylrishabh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/tylrishabh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/tylrishabh/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/tylrishabh/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
