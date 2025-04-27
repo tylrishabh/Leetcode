@@ -8,6 +8,7 @@ In this repo you'll find all my successful submissions of LeetCode.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tylrishabh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tylrishabh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/tylrishabh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/tylrishabh/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/tylrishabh/Leetcode/tree/master/0189-rotate-array) |
@@ -20,6 +21,7 @@ In this repo you'll find all my successful submissions of LeetCode.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tylrishabh/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tylrishabh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/tylrishabh/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tylrishabh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/tylrishabh/Leetcode/tree/master/0392-is-subsequence) |
@@ -82,4 +84,8 @@ In this repo you'll find all my successful submissions of LeetCode.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tylrishabh/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tylrishabh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
