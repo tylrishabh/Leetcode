@@ -31,6 +31,7 @@ In this repo you'll find all my successful submissions of LeetCode.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tylrishabh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/tylrishabh/Leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/tylrishabh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/tylrishabh/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tylrishabh/Leetcode/tree/master/0283-move-zeroes) |
@@ -88,4 +89,8 @@ In this repo you'll find all my successful submissions of LeetCode.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tylrishabh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/tylrishabh/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
