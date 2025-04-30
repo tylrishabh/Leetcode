@@ -1,6 +1,6 @@
-select a.id 
-from weather as a
-join weather as b
-where dateDiff(a.recordDate, b.recordDate) = 1
-and a.temperature > b.temperature
-
+# Write your MySQL query statement below
+select w1.id 
+from Weather w1
+join Weather w2
+where dateDiff(w1.recordDate, w2.recordDate ) = 1 
+and w1.temperature > w2.temperature;
