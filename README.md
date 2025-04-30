@@ -13,6 +13,7 @@ In this repo you'll find all my successful submissions of LeetCode.
 | [0141-linked-list-cycle](https://github.com/tylrishabh/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/tylrishabh/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/tylrishabh/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/tylrishabh/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/tylrishabh/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tylrishabh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/tylrishabh/Leetcode/tree/master/0392-is-subsequence) |
@@ -46,6 +47,7 @@ In this repo you'll find all my successful submissions of LeetCode.
 | ------- |
 | [0009-palindrome-number](https://github.com/tylrishabh/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/tylrishabh/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/tylrishabh/Leetcode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tylrishabh/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
@@ -60,6 +62,7 @@ In this repo you'll find all my successful submissions of LeetCode.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tylrishabh/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/tylrishabh/Leetcode/tree/master/0202-happy-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tylrishabh/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2892-check-if-array-is-good](https://github.com/tylrishabh/Leetcode/tree/master/2892-check-if-array-is-good) |
 ## Sorting
