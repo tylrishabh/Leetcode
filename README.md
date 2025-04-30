@@ -40,6 +40,7 @@ In this repo you'll find all my successful submissions of LeetCode.
 | [0605-can-place-flowers](https://github.com/tylrishabh/Leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tylrishabh/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tylrishabh/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2892-check-if-array-is-good](https://github.com/tylrishabh/Leetcode/tree/master/2892-check-if-array-is-good) |
 ## Math
 |  |
 | ------- |
@@ -60,11 +61,13 @@ In this repo you'll find all my successful submissions of LeetCode.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tylrishabh/Leetcode/tree/master/0141-linked-list-cycle) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tylrishabh/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2892-check-if-array-is-good](https://github.com/tylrishabh/Leetcode/tree/master/2892-check-if-array-is-good) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tylrishabh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tylrishabh/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2892-check-if-array-is-good](https://github.com/tylrishabh/Leetcode/tree/master/2892-check-if-array-is-good) |
 ## Database
 |  |
 | ------- |
