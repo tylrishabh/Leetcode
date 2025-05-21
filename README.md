@@ -36,6 +36,7 @@ In this repo you'll find all my successful submissions of LeetCode.
 | [0035-search-insert-position](https://github.com/tylrishabh/Leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/tylrishabh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/tylrishabh/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/tylrishabh/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tylrishabh/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/tylrishabh/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/tylrishabh/Leetcode/tree/master/0605-can-place-flowers) |
@@ -48,6 +49,7 @@ In this repo you'll find all my successful submissions of LeetCode.
 | [0009-palindrome-number](https://github.com/tylrishabh/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/tylrishabh/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tylrishabh/Leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/tylrishabh/Leetcode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tylrishabh/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
@@ -63,12 +65,14 @@ In this repo you'll find all my successful submissions of LeetCode.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tylrishabh/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/tylrishabh/Leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/tylrishabh/Leetcode/tree/master/0268-missing-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tylrishabh/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2892-check-if-array-is-good](https://github.com/tylrishabh/Leetcode/tree/master/2892-check-if-array-is-good) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tylrishabh/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/tylrishabh/Leetcode/tree/master/0268-missing-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tylrishabh/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2892-check-if-array-is-good](https://github.com/tylrishabh/Leetcode/tree/master/2892-check-if-array-is-good) |
 ## Database
@@ -104,4 +108,9 @@ In this repo you'll find all my successful submissions of LeetCode.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tylrishabh/Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/tylrishabh/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tylrishabh/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
